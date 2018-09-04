@@ -34,5 +34,6 @@ def analyze_text(converted_pdf_file):
 			print(broadinfo)
 		
 #analyze_text('test.tsv')
-analyze_text('result.txt')
+analyze_text('convert.csv')
+#analyze_text('result.txt')
 
