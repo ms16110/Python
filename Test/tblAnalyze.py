@@ -33,6 +33,6 @@ def analyze_text(converted_pdf_file):
 			broadinfo=line.split();
 			print(broadinfo)
 		
-analyze_text('test.tsv')
-#analyze_text('result.txt')
+#analyze_text('test.tsv')
+analyze_text('result.txt')
 
